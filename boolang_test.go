@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/apourchet/boolang"
+	"github.com/algoexpert-io/boolang"
 	"github.com/stretchr/testify/require"
 )
 

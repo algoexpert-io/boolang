@@ -1,4 +1,4 @@
-module github.com/apourchet/boolang
+module github.com/algoexpert-io/boolang
 
 go 1.13
 
